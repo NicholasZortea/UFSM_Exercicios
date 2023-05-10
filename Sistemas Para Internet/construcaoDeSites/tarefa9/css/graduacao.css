@@ -1,0 +1,28 @@
+#content h2{
+    font-size: 17px;
+    font-weight: bold;
+    margin: 20px 0 20px 0;
+}
+#menu h2{
+    font-size: 17px;
+    font-weight: bold;
+    margin: 20px 0 20px 0;
+}
+
+#menu{
+    background-color: #d9e5e3;
+    border: solid 10px #aec4c0;
+    width: 237px;
+    float: right;
+    height: 439px;
+    padding: 25px 0 0 25px;
+}
+
+#menu ul li{
+    list-style: inside;
+    margin: 0 0 0 20px;
+}
+
+#content{
+    width: 500px;
+}
