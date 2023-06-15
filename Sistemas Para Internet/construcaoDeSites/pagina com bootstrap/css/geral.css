@@ -1,0 +1,36 @@
+.navbar{
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    z-index: 1;
+}
+.container-fluid > a{
+    margin-left: 3em;
+}
+
+.imagemLogo{
+    width: 40px;
+    height: 40px;
+}
+
+.banner{
+    margin-top: 100px;
+    width: 90%;
+}
+
+p{
+    text-align: justify;
+}
+
+h2{
+    color: #FFF;
+    background-color: #000;
+}
+
+h3{
+    justify-content: left;
+}
+
+.formulario{
+    text-align: left;
+}
